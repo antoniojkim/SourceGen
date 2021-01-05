@@ -4,8 +4,9 @@
 using namespace std;
 
 vector<int> test_vector = {
-    // begin autogen test_vector
-    // end autogen
+    // begin sourcegen test_vector
+    10, 13, 17, 35, 41, 42, 70, 77, 84, 86
+    // end sourcegen
 };
 
 int main() {
