@@ -1,0 +1,6 @@
+*~
+*.clang-format
+*.o
+*.d
+
+examples/test
